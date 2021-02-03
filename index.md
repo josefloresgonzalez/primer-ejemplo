@@ -23,6 +23,8 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+3. Caso practico
+4. Determinado espiritu
 
 **Bold** and _Italic_ and `Code` text
 
